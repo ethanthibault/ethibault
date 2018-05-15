@@ -1,0 +1,9 @@
+---
+title: "Homepage"
+author: "Ethan Thibault"
+date: "5/15/2018"
+output: 
+  html_document: 
+    theme: cerulean
+---
+
